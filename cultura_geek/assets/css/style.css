@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+/*  */
+:root{
+    --ferlinda:#ff9671; 
+    --amgetd:#
+}
+html{
+height: 100vh;
+background-color: #20205bad;
+
+}
+button{
+    background-color: bisque;
+    width: 100px;
+    margin: 5px;
+    padding: 5px;
+}
